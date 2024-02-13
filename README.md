@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Java, more specifically, game design in Java.
 - 📫 How to reach me: Sabeehdanish06@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: My dream job as a young kid was to work for Naughty Dog and work on a game with them. Maybe in the future my dream will come true!
+- ⚡ Fun fact: My dream job as a young kid was to work for Naughty Dog (game studio) and work on a game with them. Maybe in the future my dream will come true!
 
 <!---
 RandomMota/RandomMota is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
