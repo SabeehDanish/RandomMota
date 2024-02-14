@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sabeeh Danish, also known as @RandomMota online. I'm currently a grade 12 high school student, and also (hopefully) an aspiring engineer in the future! 
+- 👋 Hi, I’m Sabeeh Danish, also known as @RandomMota online. I'm currently a grade 12 high school student, and also (hopefully) an aspiring engineer! 
 - 👀 I’m interested in game design and arduino projects.
 - 🌱 I’m currently learning Java, more specifically, game design in Java.
 - 📫 How to reach me: Sabeehdanish06@gmail.com
