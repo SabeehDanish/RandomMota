@@ -1,4 +1,4 @@
-👋 Hi, I’m Sabeeh Danish, a first-year Nanotechnology Engineering student at the University of Waterloo with a passion for innovation and problem-solving.
+- 👋 Hi, I’m Sabeeh Danish, a first-year Nanotechnology Engineering student at the University of Waterloo with a passion for innovation and problem-solving.
 
 - 👀 I’m interested in cutting-edge technologies, including game design, Arduino projects, and sustainable energy systems.
 
