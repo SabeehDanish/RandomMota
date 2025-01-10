@@ -1,9 +1,12 @@
-- 👋 Hi, I’m Sabeeh Danish, also known as @RandomMota online. I'm currently a grade 12 high school student, and also (hopefully) an aspiring engineer! 
-- 👀 I’m interested in game design and arduino projects.
-- 🌱 I’m currently learning Java, more specifically, game design in Java.
-- 📫 How to reach me: s2danish@uwaterloo.ca 
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: My dream job as a young kid was to work for Naughty Dog (game studio) and work on a game with them. Maybe in the future my dream will come true!
+👋 Hi, I’m Sabeeh Danish, a first-year Nanotechnology Engineering student at the University of Waterloo with a passion for innovation and problem-solving.
+
+- 👀 I’m interested in cutting-edge technologies, including game design, Arduino projects, and sustainable energy systems.
+
+- 🌱 I’m currently expanding my skills in Python, Java, and SolidWorks while working on projects like Triboelectric Nanogenerators and interactive applications.
+
+- 📫 How to reach me: s2danish@uwaterloo.ca | LinkedIn | GitHub
+
+- ⚡ Fun fact: As a kid, I dreamed of designing games for Naughty Dog. Now, I’m working on turning my passion for engineering and technology into impactful real-world solutions.
 
 <!---
 RandomMota/RandomMota is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
