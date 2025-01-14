@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently expanding my skills in Python, Java, and SolidWorks while working on projects like Triboelectric Nanogenerators and interactive applications.
 
-- 📫 How to reach me: s2danish@uwaterloo.ca | LinkedIn | GitHub | [Linkedin](https://www.linkedin.com/in/sabeehdanish/)
+- 📫 How to reach me: s2danish@uwaterloo.ca | [Linkedin](https://www.linkedin.com/in/sabeehdanish/) | GitHub
 
 - ⚡ Fun fact: As a kid, I dreamed of designing games for Naughty Dog. Now, I’m working on turning my passion for engineering and technology into impactful real-world solutions.
 
